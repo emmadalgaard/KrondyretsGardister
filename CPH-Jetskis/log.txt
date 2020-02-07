@@ -1,0 +1,1744 @@
+commit f3ab41bddd47dde8b664e5ea515886a99e850da8
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Wed Dec 11 10:22:16 2019 +0100
+
+    slettet overfloedige css sheets
+
+commit a62869294e0f93b315ee738878fbfb19dbf97160
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Dec 10 22:14:27 2019 +0100
+
+    testet noget, ingen aendring i kode
+
+commit f5182de703e714663be1195c57d3687fe58f036c
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Tue Dec 10 15:07:45 2019 +0100
+
+    .
+
+commit 94082cfdaa15861890c797308e6d6a6c2bddab1c
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Tue Dec 10 14:09:19 2019 +0100
+
+    .
+
+commit 60671b0bf58d86569ac4c053cccd36f47e0b5f68
+Merge: 10fc84d 1949bd1
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Dec 10 14:06:26 2019 +0100
+
+    rettet kommentarer
+
+commit 10fc84dd7683112e54c5adff38bfe954bb97ab3b
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Dec 10 14:05:38 2019 +0100
+
+    rettet kommentarer orderconfirmation
+
+commit 1949bd17466299b0a18674a04e5b0adacee34db7
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Tue Dec 10 14:01:59 2019 +0100
+
+    ændret lille detalje getNumber()
+
+commit 83831d6f16edacd4d02e0ab49518706a9407451c
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Dec 10 12:36:17 2019 +0100
+
+    rettet kommentarer i profile
+
+commit 5b5fd348ecda67add7e185646b5d515b3b71d7cc
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Dec 10 12:35:31 2019 +0100
+
+    rettet kommentarer i profile
+
+commit 160fea658f61f25929896a772d53569eba2daced
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Dec 10 11:39:31 2019 +0100
+
+    rettet kommentarer
+
+commit 2ad11ad58233ac7833af4248a694b7e690f96944
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Mon Dec 9 16:30:14 2019 +0100
+
+    Slettet en masse kommentarer og ryddet lidt op
+
+commit 09fd6a68c292d3a2b8c3cf9de7c5abd993641b86
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Sun Dec 8 21:28:31 2019 +0100
+
+    .
+
+commit cb2cb46ddade817725c6f36d01c290590f3565eb
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Sat Dec 7 13:00:31 2019 +0100
+
+    Tilføjede en værdi til dropdown-liste
+
+commit 9573424d43b9ae6a20797bcb2bb973e03ee87a2f
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Thu Dec 5 15:00:09 2019 +0100
+
+    rettet på nogle variabelnavne
+
+commit 57556027bd5281148546738b81e2623e972c83ba
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Thu Dec 5 14:52:40 2019 +0100
+
+    .
+
+commit 18f43cc3200c601fd2b3ceba189527669ed382eb
+Merge: 9a2c4b5 4eba89e
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Thu Dec 5 14:20:02 2019 +0100
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit 9a2c4b54b651129eda9f4c6492a70f4d50e9bb8d
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Thu Dec 5 14:19:49 2019 +0100
+
+    .
+
+commit 4eba89e5a2e72cac2cc53c2717ad32074e6fbcd7
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Thu Dec 5 13:53:40 2019 +0100
+
+    fikset noget html syntax
+
+commit d359890bbfccb5ee9c72733b2510c9a98128f932
+Merge: 6a56145 68d5066
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Thu Dec 5 13:05:53 2019 +0100
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit 68d5066ed28849f2018a19d387e836ddefd334ec
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Thu Dec 5 13:05:32 2019 +0100
+
+    rettede annuller ordre fejl, rettet console fejl
+
+commit 6a561456d37b7fc6250a9d955c2b147b953263ff
+Merge: b2cd1fd d6e9acc
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Thu Dec 5 13:03:11 2019 +0100
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit b2cd1fd9a8ee8d274eb7acae2cb89e5d449e14d1
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Thu Dec 5 13:01:08 2019 +0100
+
+    .
+
+commit d6e9accf078def538b783e49e70f82cf818d3f93
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Wed Dec 4 19:34:43 2019 +0100
+
+    Ingen aendring til kode
+
+commit d72a71e8729c3fb0e43f121a6610f6678c311c42
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Mon Dec 2 15:26:33 2019 +0100
+
+    .
+
+commit 067a77340d55b125b1093596ce3877459daa7ac9
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Mon Dec 2 15:17:17 2019 +0100
+
+    fjernet noget kode jeg har brugt som eksempel i opgaven
+
+commit 1b96f44fab2d222f31e09e066541a9091da1d122
+Merge: 827bb3e dcec48e
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Mon Dec 2 14:54:02 2019 +0100
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit 827bb3ee73dac6603f6316193a44f36b1c407d4f
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Mon Dec 2 14:53:48 2019 +0100
+
+    rettet stavefejl
+
+commit dcec48e0d41e58a540bf0f47d11521d93cd5e8bc
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Mon Dec 2 13:37:12 2019 +0100
+
+    small comment changes
+
+commit 17ee3be77d98936a59ede9907fe2137cb90e03cd
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Mon Dec 2 12:34:21 2019 +0100
+
+    slettet testDiv i profile.html da den ikke blev brugt
+
+commit ca654a4a4acf72528d0eb7fbf962884f4f476407
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Mon Dec 2 12:30:30 2019 +0100
+
+    slettet nogle udkommenteret linjer i profile.html
+
+commit 1d08092bc645310d5b87f3b88145020f62d737db
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Mon Dec 2 11:16:20 2019 +0100
+
+    testede noget, ingen aendring i kode
+
+commit 6062134b537d458a41e6a53b5000113fef444e24
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Sun Dec 1 16:36:35 2019 +0100
+
+    retter frontpage til index
+
+commit d134607e41b93acfcdce413aea21a2f8f2a75442
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Sun Dec 1 16:24:17 2019 +0100
+
+    fikser login fejl
+
+commit 61c1a8866208725ced45ac42047ea4a6e5fe1dac
+Merge: d6de858 3d08061
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Sun Dec 1 15:07:18 2019 +0100
+
+    mikkel
+
+commit d6de85811390858d003a056525a030423cbeb2a3
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Sun Dec 1 15:03:43 2019 +0100
+
+    Sletter overflodige sider - Mikkel
+
+commit 3d08061327fc474513d2ec32669235f78f2d99fb
+Merge: eabcea9 95010f2
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Thu Nov 28 11:33:50 2019 +0100
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit eabcea96bc37c3c3a706891e05140d742a3cc062
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Thu Nov 28 11:33:42 2019 +0100
+
+    Ændring af Markus
+
+commit 95010f26d6de4ed70d73e52cb121d13bd79992fa
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Sun Nov 24 21:04:53 2019 +0100
+
+    .
+
+commit 533d9ca26e427980bc3a578f5f84500cd0544b67
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Sun Nov 24 15:25:01 2019 +0100
+
+    tilføjet self-invoking funktioner
+
+commit f9cf76e5fe4e7a6864c43aab7a0e736e82b613e3
+Merge: a1868a2 27185b4
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Sun Nov 24 15:06:21 2019 +0100
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit a1868a27e578199769bbe31859980e3141d982df
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Sun Nov 24 15:06:07 2019 +0100
+
+    .
+
+commit 27185b44b6f0fe2520d0342f55c4be73c59e0543
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Sun Nov 24 14:24:35 2019 +0100
+
+    mikkel
+
+commit db99d53e1986e3c3521a1a7994057be90e3c14bb
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Sun Nov 24 14:17:03 2019 +0100
+
+    .
+
+commit c8a673f6b7fff60506189f576ae92b6c7e567660
+Merge: 34ecc20 caaf768
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Sun Nov 24 14:09:16 2019 +0100
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit 34ecc20c80124e7d76f035851af142678a60209f
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Sun Nov 24 14:08:54 2019 +0100
+
+    Ændring af Markus
+
+commit caaf76838e53f845e6e33aa1e5ab551a71c77347
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Mon Nov 18 22:31:21 2019 +0100
+
+    mikkel
+
+commit e465593249b592743b821787898a49f760dcd285
+Merge: 8695ebc cd03d8c
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Sun Nov 17 21:30:22 2019 +0100
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit 8695ebcf8aa3a923decb5c482913707248369972
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Sun Nov 17 21:30:07 2019 +0100
+
+    Ændring af Markus
+
+commit cd03d8ce4420f0953fef3dc4b867cd963645f76e
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Sun Nov 17 21:28:03 2019 +0100
+
+    mikkel
+
+commit cbc39ad64d62d5e7b2b7b242c499d64b04daf969
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Sat Nov 16 13:26:52 2019 +0100
+
+    .
+
+commit 4518b1d2ec38740325b6e3ac5ed85a15064f63df
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Sat Nov 16 13:25:09 2019 +0100
+
+    .
+
+commit a2e7ffa9c4a87b541be5f48d8be856a72baf0b33
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Fri Nov 15 17:10:54 2019 +0100
+
+    .
+
+commit 148ba3aae8e8439a0c013f898e0b5f5d1be6c3b8
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Thu Nov 14 16:41:57 2019 +0100
+
+    .
+
+commit a51f4e162c0a680dc3595bf544c21d487a50568f
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Thu Nov 14 15:06:13 2019 +0100
+
+    .
+
+commit 743613babc591b4f79cfc3d74e21a77f29ac4659
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Thu Nov 14 14:59:31 2019 +0100
+
+    .
+
+commit 0452f00a62cc2d1122d5de24bc15e933f527726f
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Thu Nov 14 14:50:14 2019 +0100
+
+    fixet de sidste ting på admin siden
+
+commit b6891256a59b307a206db4a0ffdc044133f8eb76
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Wed Nov 13 19:02:17 2019 +0100
+
+    deleteUser virker dynamisk og med dropdown menu
+
+commit 769b673c995cd588cc7e9250a59b4faebc4b9b37
+Merge: a29fc2f eed4148
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Wed Nov 13 11:56:38 2019 +0100
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit a29fc2f87aa6a730caaaebc4f052a7711534b8ec
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Wed Nov 13 11:56:21 2019 +0100
+
+    .
+
+commit eed41483edb65c48d532c0a569200e3827a607e7
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Nov 12 11:32:01 2019 +0100
+
+    mikkel
+
+commit 5d399ea5857e0f58b262aaf834851ae2af316714
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Nov 12 11:30:41 2019 +0100
+
+    mikkel
+
+commit a3c92a18cd1b1b7e1194783cedbc6efd57037ae6
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Nov 12 11:20:49 2019 +0100
+
+    mikkel
+
+commit 7fb56d672bbdf2c31ee3eae4227e6a6ddf2212d4
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Nov 12 10:50:16 2019 +0100
+
+    mikkel
+
+commit 51717a85e69cbb51efe879bb185b58fce7645910
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Nov 12 10:28:28 2019 +0100
+
+    mikkel
+
+commit 0bf62f9dfef8c63356fcf539185de4f385e42f32
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Mon Nov 11 23:00:07 2019 +0100
+
+    mikkel
+
+commit e58d2fc11ceccb64813276de17cf2c39695f466e
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Mon Nov 11 22:56:18 2019 +0100
+
+    mikkel
+
+commit 802cb985cfbe7886fdbef61ff7bf6aa36f4ed9ed
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Mon Nov 11 22:52:22 2019 +0100
+
+    mikkel
+
+commit decafd9065e6d8fd3a461ab1fa3f37ac14ab75ef
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Mon Nov 11 21:48:36 2019 +0100
+
+    mikkel
+
+commit 81fbba21c0f5e7993e2af99050e0f329b6d91ba6
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Mon Nov 11 21:31:24 2019 +0100
+
+    mikkel
+
+commit 1e01427e503b1bf40d6de6940504581ff56d6c5a
+Merge: e9a94e7 da9dafa
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Mon Nov 11 21:26:45 2019 +0100
+
+    .
+
+commit e9a94e720b6797a55dae562a664b2dec9b12683f
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Mon Nov 11 21:23:59 2019 +0100
+
+    .
+
+commit da9dafac819b41ef65c16ae7ceab19533b0ab0b7
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Mon Nov 11 21:09:58 2019 +0100
+
+    mikkel
+
+commit 19080045c14f5ab0261786f4d896441d936954e0
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Mon Nov 11 20:46:46 2019 +0100
+
+    mikkel
+
+commit dad89a2758c03a4e4865e4d151709236b35278a7
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Mon Nov 11 15:14:36 2019 +0100
+
+    mikkel
+
+commit cb304452f32bd0061968491e51cf8561a39383e2
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Mon Nov 11 15:13:52 2019 +0100
+
+    .
+
+commit 0a0bc90a21096d2d5f3d7babece14c958bc1a936
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Mon Nov 11 14:36:28 2019 +0100
+
+    .
+
+commit c77c9a2addff4aae9c4b56a72bb94e0194b875d2
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Mon Nov 11 14:29:59 2019 +0100
+
+    .
+
+commit dfca7e4690e7c69384020b43a3aaa7b01ba2f0ce
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Sun Nov 10 21:59:19 2019 +0100
+
+    mikkel
+
+commit da2c094a9bd804ea514363b3b7fb5bbe27849343
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Sun Nov 10 20:38:42 2019 +0100
+
+    mikkel
+
+commit 2b08bb12436c9e8a0c1b1a4a2297a4c13305dd5c
+Merge: 0950442 5747d96
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Sun Nov 10 20:18:59 2019 +0100
+
+    mikkel
+
+commit 0950442d78f243590cb96cbbabd211325cf87ed9
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Sun Nov 10 20:18:30 2019 +0100
+
+    mikkel
+
+commit 5747d9604e8eec6e75b6469012d301a3b5918697
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Sat Nov 9 20:25:34 2019 +0100
+
+    .
+
+commit d29d0fb47a952ad80eaf8bfdcba388085db53492
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Sat Nov 9 19:31:52 2019 +0100
+
+    .
+
+commit ce0a3951f904a439a7637fd2805e9936e73ed9a9
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Sat Nov 9 19:14:31 2019 +0100
+
+    .
+
+commit 98d8a1a1e4894e8c3cd356544e704d77491f44c6
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Sat Nov 9 13:00:49 2019 +0100
+
+    .
+
+commit 4b4b29efe9b88049739ebd82f437ab6fc7297906
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Fri Nov 8 14:36:04 2019 +0100
+
+    .
+
+commit 1a0e385d556fd216d1c847af279258b1f76de5a5
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Fri Nov 8 14:03:51 2019 +0100
+
+    .
+
+commit c6501251d9f0b620a1d4a608d1697767cd4893d7
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Fri Nov 8 13:57:14 2019 +0100
+
+    mikkel
+
+commit 6b64c7448ec5e9117a747371413a3a5e7528884a
+Merge: 873d29d 19ef8a1
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Fri Nov 8 13:55:24 2019 +0100
+
+    .
+
+commit 873d29d762c12d24eab3c39c1fbea77857c9e77c
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Fri Nov 8 13:52:20 2019 +0100
+
+    .
+
+commit 19ef8a16224e75b924a68bb923e829df333f5af3
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Fri Nov 8 13:52:17 2019 +0100
+
+    mikkel
+
+commit c489d4f320c18636a56d2899fb31057eee0638f4
+Merge: 6da8f65 a82189c
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Fri Nov 8 10:49:32 2019 +0100
+
+    mikkel
+
+commit a82189c292529b64b67b92b88df0495666501d65
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Fri Nov 8 10:48:45 2019 +0100
+
+    .
+
+commit 6da8f653c459a5f05f5ff57e99f01ca520c2a7b4
+Merge: 33ae999 a5ba061
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Fri Nov 8 09:44:33 2019 +0100
+
+    mikke
+
+commit 33ae999c4932d59946ca72af2e8881eb197afc77
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Fri Nov 8 09:43:59 2019 +0100
+
+    mikkel
+
+commit a5ba061db82f2e405a872bb374f6853d4b9b8820
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Fri Nov 8 09:43:28 2019 +0100
+
+    .
+
+commit a0d133922fc08bb9912b729a131334d07ee469cc
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Fri Nov 8 09:24:55 2019 +0100
+
+    .
+
+commit bab4a2c95bccb389b2031277a69f151734079a9a
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Fri Nov 8 09:21:13 2019 +0100
+
+    .
+
+commit d6990b83ab201fd47061613149fb03fbf1f753e3
+Merge: 75e21d9 df0daf5
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Fri Nov 8 09:13:22 2019 +0100
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit 75e21d957bdde1460069a40c8d6e59c752b4f0d8
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Fri Nov 8 09:13:16 2019 +0100
+
+    .
+
+commit df0daf5e1099db0c77eab53d6a3da82f28fda98d
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Fri Nov 8 08:48:51 2019 +0100
+
+    mikkel
+
+commit fe8af5cbfcd9c48892b2f1e10460c098bcb7ba0e
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Fri Nov 8 08:29:41 2019 +0100
+
+    mikkel
+
+commit 6e3ec259bf89082c676dcc50a23cf137fb70f03a
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Nov 5 11:16:57 2019 +0100
+
+    mikkel
+
+commit 18313cdeb7712819950b934d93734212aff5fc2f
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Nov 5 10:58:32 2019 +0100
+
+    mikkel
+
+commit 7b8fb933752ba2baf0bcfe6f328bc4e8632c82ce
+Merge: b7b4870 4b9dcf8
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Tue Nov 5 10:52:27 2019 +0100
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit b7b48700433e1d5c009b65e84044c6041ae6b45f
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Tue Nov 5 10:52:10 2019 +0100
+
+    .
+
+commit 4b9dcf84a966cb04942bbaefa3e8e3eb1d0140e1
+Merge: c19c86e e6d8d82
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Nov 5 09:58:09 2019 +0100
+
+    mikkel
+
+commit c19c86e58c158c9d54b6e8343f53f42b87de77f5
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Nov 5 09:57:45 2019 +0100
+
+    mikkel
+
+commit b5f84bbd172a3f3f100dc43e7d66750ab98d0322
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Tue Nov 5 09:49:22 2019 +0100
+
+    .
+
+commit e6d8d8214b55348d8c93975c4832bc4e48e33367
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Tue Nov 5 09:44:13 2019 +0100
+
+    .
+
+commit 5b382abf22729194fe144286045bb95203db7279
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Tue Nov 5 09:40:54 2019 +0100
+
+    .
+
+commit cec992f6839f0abfafe0b2b051d46bb64ecc6bb1
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Tue Nov 5 09:33:09 2019 +0100
+
+    .
+
+commit f00a01a398cee3532a0b49cc7068d2babb83d18e
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Mon Nov 4 17:21:14 2019 +0100
+
+    mikkel
+
+commit 1bbbe1046c454801f9dfb03ae1037504f2f2100c
+Merge: b13653c 501a545
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Mon Nov 4 17:18:53 2019 +0100
+
+    mikkel
+
+commit b13653c5f20ba4dfc10ef99e9ff94f8488da5960
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Mon Nov 4 17:18:06 2019 +0100
+
+    mikkel
+
+commit 501a545a522d6d97dd76545c703c042ed5105922
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Mon Nov 4 17:15:59 2019 +0100
+
+    Ændring af Markus
+
+commit b0589b51d13328e71bb77a97b62efb3feba111ef
+Merge: b74be32 1758845
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Fri Nov 1 22:07:52 2019 +0100
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit b74be3269a71a86657a2ad3c05bc479f5fbddbd8
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Fri Nov 1 22:07:38 2019 +0100
+
+    Ændring af Markus
+
+commit 175884598772dd514f5ca41df4b1dc546bde40a8
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Fri Nov 1 19:56:52 2019 +0100
+
+    mikkel
+
+commit 6d13cb29ee08084a35004ffeaf4af750bdda579b
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Fri Nov 1 14:07:56 2019 +0100
+
+    mikkel
+
+commit 5fea65e46d310374450f721041e2c2a2eadb6392
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Fri Nov 1 14:01:48 2019 +0100
+
+    mikkel
+
+commit 21a856a2c635eebafcb17fa711fc989aa39155da
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Fri Nov 1 13:46:15 2019 +0100
+
+    .
+
+commit de180774253e5ebe929b49c3a77d858a4eab1b7e
+Merge: 62bd740 a1340ae
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Fri Nov 1 13:30:23 2019 +0100
+
+    mikkel
+
+commit 62bd740452bb9510a27603d0c7d090c326ec4a9e
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Fri Nov 1 13:29:50 2019 +0100
+
+    mikkel
+
+commit a1340ae322b59a345f0ed54ca3c65f69865d181f
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Fri Nov 1 13:07:09 2019 +0100
+
+    .
+
+commit 084198308dedb045f4c8e02df4384965d7f7cc25
+Merge: 5f62eb7 472740c
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Fri Nov 1 12:59:19 2019 +0100
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit 5f62eb71c4346d774063f21321971f2ebeaf586b
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Fri Nov 1 12:57:19 2019 +0100
+
+    .
+
+commit 472740c01e70232d1562b4bf95e8f00566cbccba
+Merge: 8f75732 3bb5a3d
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Fri Nov 1 12:47:37 2019 +0100
+
+    mikkel
+
+commit 8f75732f1effd81260b897f5846da706fc79b680
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Fri Nov 1 12:46:34 2019 +0100
+
+    mikkel
+
+commit 3bb5a3d457eadbb97eb0a5d47cc2a9843163853c
+Merge: 02dcdf8 52863ad
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Fri Nov 1 12:15:17 2019 +0100
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit 02dcdf864e46f1b9be52a37c39f8eb6b010f1737
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Fri Nov 1 12:15:07 2019 +0100
+
+    Ændring af Markus
+
+commit 52863ad61767411b5d3d30d7d93ae949690b309a
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Fri Nov 1 12:13:49 2019 +0100
+
+    mikkel
+
+commit 90eb5c99ba550f2b67721873d8a30c59469a674a
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Fri Nov 1 11:53:29 2019 +0100
+
+    Ændring af Markus
+
+commit a03552572386df2319b98e72575a80f894946eb6
+Merge: 99b5c9d 6a32fbb
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Fri Nov 1 12:03:53 2019 +0100
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit 99b5c9d81dbd1350c0beea8d6965fab9c3b9fc21
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Fri Nov 1 12:03:34 2019 +0100
+
+    .
+
+commit 6a32fbb821d310402286421b350cd689b11700ae
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Fri Nov 1 09:16:48 2019 +0100
+
+    Ændring af Markus
+
+commit e32e7ffcd74b9caa9098d82b43b7387cb4883a2d
+Merge: e2980c9 f4abde8
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Fri Nov 1 09:14:41 2019 +0100
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit e2980c9d9dfa2ee123e6af2c7a1d6a6e32ffac1c
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Fri Nov 1 09:14:27 2019 +0100
+
+    Ændring af Markus
+
+commit f4abde89717f90cf039d0b6678acdfa82f1f9b40
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Fri Nov 1 09:11:57 2019 +0100
+
+    mikkel
+
+commit 054f8e183e1871a7a1968d64694d5714ca9fcd54
+Merge: 391be66 688b95d
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Fri Nov 1 09:04:12 2019 +0100
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+    
+     Conflicts:
+    	Classes/Users_customer_admin.js
+
+commit 391be66765b7c03c465d38aa006835e7e8e258dc
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Fri Nov 1 09:02:18 2019 +0100
+
+    Ændring af Markus
+
+commit 688b95d53e89bd51b8f12ef3065d82dac19c2682
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Fri Nov 1 08:30:24 2019 +0100
+
+    .
+
+commit caa924a79a9155c7edd163ee542668edf53dd9c8
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Wed Oct 23 23:08:03 2019 +0200
+
+    Ændring af Markus
+
+commit 66277c6c9246a6f16bb08341a157e35233cacd36
+Merge: beaea15 b20e0e9
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Wed Oct 23 20:52:50 2019 +0200
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit b20e0e983a42dd371065534ac3593a836c14e85b
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Wed Oct 23 18:13:38 2019 +0200
+
+    mikkel
+
+commit beaea1520ea5a012d59bcf54f6f21bed7d820e13
+Merge: ccb82a5 cedfc39
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Wed Oct 23 16:23:41 2019 +0200
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit cedfc39282cfbc329a7b849f18d1d88214230f9d
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Wed Oct 23 16:23:05 2019 +0200
+
+    mikkel
+
+commit d47bce9d8f9ad8d5489fa5d46e062d2f8a723d1e
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Wed Oct 23 14:30:23 2019 +0200
+
+    mikkel
+
+commit ccb82a570a5141f9ef237519b0f6a1f63d994af2
+Merge: 05b13d4 adedfdf
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Wed Oct 23 14:24:32 2019 +0200
+
+    .
+
+commit 05b13d4efa9cddf61e23cb97f79fb6aa67faa448
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Wed Oct 23 14:22:50 2019 +0200
+
+    .
+
+commit adedfdf811401e600572f4ba0c7fee9882e57197
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Wed Oct 23 14:22:05 2019 +0200
+
+    Ændring af Markus
+
+commit faa279de92020f2d956121e31607ba0a65292fe6
+Merge: 216a4e3 8537d3e
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Wed Oct 23 14:12:49 2019 +0200
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit 216a4e322fb5b38ca1f220712f1991e3f20d7013
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Wed Oct 23 14:12:31 2019 +0200
+
+    Ændring af Markus
+
+commit 8537d3ed4f1162c9dd0986843f9a7eb564e34500
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Wed Oct 23 14:11:27 2019 +0200
+
+    .
+
+commit e54a51d6c3000ca7e2032fab76df8664434411fc
+Merge: 9fcbf05 c868615
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Wed Oct 23 13:09:27 2019 +0200
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit 9fcbf05fa81f1366e7ed2ebf7f5dcaa51823ac18
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Wed Oct 23 13:09:09 2019 +0200
+
+    .
+
+commit c868615dc4fb9da806edb1363e92c4cea5fe8b80
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Wed Oct 23 13:08:53 2019 +0200
+
+    mikkel
+
+commit 03ecf57a2f078fa72efc6f8a2171133d9629c3cb
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Wed Oct 23 12:50:38 2019 +0200
+
+    mikkel
+
+commit 3f8893a04a1872179484525858818afeae7bde61
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Wed Oct 23 12:24:23 2019 +0200
+
+    mikkel
+
+commit 13404c383457469b3d3a3b5772edb25ba914dd75
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Wed Oct 23 12:16:07 2019 +0200
+
+    mikkel
+
+commit 2c97543e0a053ce835a0275e0fc4fd5dd9c9262f
+Merge: 6f76560 2e0e472
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Wed Oct 23 12:15:46 2019 +0200
+
+    mikkel
+
+commit 6f76560baf7c533d75d9957fc436d5fe3b551432
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Wed Oct 23 12:12:46 2019 +0200
+
+    mikkel
+
+commit 2e0e4724fd858a41b2e72e0011de4b1e18713102
+Merge: 9bd862c 7b1b2df
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Wed Oct 23 12:04:39 2019 +0200
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit 9bd862ccbd470dc2d4dd53f42600862d0af4bb27
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Wed Oct 23 12:02:52 2019 +0200
+
+    Ændring af Markus
+
+commit 7b1b2dfdad2c15e9459bf19753e7125947501ccf
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Fri Oct 18 13:51:54 2019 +0200
+
+    mikkel
+
+commit 86610cb350a8f0350f1a754ef062df59ba015c58
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Fri Oct 18 13:48:01 2019 +0200
+
+    mikkel
+
+commit 8aea063fba6b8881bf6433cf3d5a50d0b55724ca
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Fri Oct 18 13:43:15 2019 +0200
+
+    mikkel
+
+commit 4fc58c9cee1ce3a2876c8b7f65367215eed1343c
+Merge: 08ea57a cdccffb
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Fri Oct 18 11:33:32 2019 +0200
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit 08ea57a898b7e0efc4268a6f3d5f03d99e84bd91
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Fri Oct 18 11:33:19 2019 +0200
+
+    Ændring af Markus2
+
+commit cdccffb4d9873a565a83f267738157d6c94c37c2
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Fri Oct 18 11:30:44 2019 +0200
+
+    .
+
+commit 6beb2802220a67378558ae7d7e03bc8ca41e48d8
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Fri Oct 18 11:18:19 2019 +0200
+
+    mikkel
+
+commit c83259ee3d1197dd0484770e19fb0ead4cfe0c58
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Fri Oct 18 10:39:55 2019 +0200
+
+    mikkel
+
+commit 16e5c6ad007c425c3543870cdebf452819f748b5
+Merge: 9f84f47 ff38fdc
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Fri Oct 18 10:30:02 2019 +0200
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+    
+     Conflicts:
+    	CSS/styles.css
+
+commit 9f84f47d9fe948fdc3aee709806fe9a6171022cd
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Fri Oct 18 10:29:49 2019 +0200
+
+    Ændring af Markus2
+
+commit 9cc507623fe2d34815c30f3b81f77f8faeed9e22
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Fri Oct 18 10:29:23 2019 +0200
+
+    Ændring af Markus2
+
+commit ff38fdc38f45ef19507a65f2649c0755f6dbf8b4
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Fri Oct 18 10:29:00 2019 +0200
+
+    mikkel
+
+commit 3e451fd27ebc0ac97ad09b46fb7ed8859c819b31
+Merge: 117a1ee 7abddb8
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Fri Oct 18 09:50:52 2019 +0200
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit 117a1eeb7b3cfdfe788897ecceff9774883e3bfc
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Fri Oct 18 09:50:20 2019 +0200
+
+    færdiggjort sign-up side
+
+commit 7abddb83ed52297b510e8e9f611818884aba4b8a
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Fri Oct 18 09:49:31 2019 +0200
+
+    mikkel
+
+commit d264048ebae3035da5e803863dcd5572c6f16891
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Fri Oct 18 08:44:24 2019 +0200
+
+    tilføjet by
+
+commit 4c7b4948c7756fa2a3776d52f4d114556b381333
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Fri Oct 18 08:05:58 2019 +0200
+
+    morten
+
+commit 37309338264ae1b25a588eefa9c15b784874d04d
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Oct 15 13:35:09 2019 +0200
+
+    mikkel
+
+commit b1d74bdbae04de4fc5496ac965720327fac932ae
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Tue Oct 15 12:49:12 2019 +0200
+
+    .
+
+commit ee4a8b56fe92a7518f8a89139c5ab583f31ff3b5
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Tue Oct 15 12:38:23 2019 +0200
+
+    morten
+
+commit 834f9875010384406a5c336ea2d9c5ac2a1076b8
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Tue Oct 15 12:33:20 2019 +0200
+
+    .
+
+commit 8b767cc019060679bd4bf174eca88bbdeb7482bf
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Oct 15 12:19:14 2019 +0200
+
+    mikkel
+
+commit 60cf1576ab326db1e3f668caf45d0de54ef2ac46
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Oct 15 12:17:58 2019 +0200
+
+    mikkel
+
+commit 96618436dc7b61e2a1f9cd10eba9293b35f8c7ea
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Oct 15 12:12:07 2019 +0200
+
+    mikkel
+
+commit 53afafe6c16781da7cc383d616fdb6ad8920c589
+Merge: 0dfe641 e7ec4c7
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Oct 15 12:10:00 2019 +0200
+
+    mikkel
+
+commit 0dfe641094371bc864d6ea2459ee10a7b7ed63bd
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Oct 15 12:07:44 2019 +0200
+
+    mikkels
+
+commit e7ec4c72201ee4d1394b32260d211b575e91a723
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Tue Oct 15 12:01:44 2019 +0200
+
+    .
+
+commit 7e1608390dc5a6c979b4f44ea2f49e1005c956ed
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Tue Oct 15 11:43:09 2019 +0200
+
+    delete user funktion
+
+commit 66d7ddf887c25df7708d2da70954db008615373c
+Merge: 00213bf fd28541
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Oct 15 10:46:49 2019 +0200
+
+    mikkel
+
+commit 00213bf5c33ef16f241c1f9a820d98f5c2af22ee
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Oct 15 10:46:13 2019 +0200
+
+    mikkel
+
+commit 406c1e069db116fe0bf6b94dc1f6e045c3bfcfaa
+Merge: b437c4b fd28541
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Tue Oct 15 10:15:59 2019 +0200
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+    
+     Conflicts:
+    	Classes/Users_customer_admin.js
+
+commit b437c4b4aefa1a79a94e8f46da4f9900fd36b066
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Tue Oct 15 10:14:59 2019 +0200
+
+    Ændring af Markus2
+
+commit fd285412426e222ef46a2d17d388445d3fd0fd19
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Tue Oct 15 09:46:46 2019 +0200
+
+    .
+
+commit dfe761e9b18f6f82035edd7e6a53ec7b11ccf0bb
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Tue Oct 15 09:43:59 2019 +0200
+
+    rykket login/signup fil til classes mappe
+
+commit 9997d8f0723eaaa38c6fed82ef819d9b4b274711
+Merge: 340b961 bb8d9cb
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Tue Oct 15 09:38:49 2019 +0200
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit 340b961466bb126bb7ae0c2786043fc98f71ec2c
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Tue Oct 15 09:38:18 2019 +0200
+
+    implementeret admin klasse til login
+
+commit bb8d9cbf9993e701304d15bc05ff6e0872074af8
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Oct 15 09:14:59 2019 +0200
+
+    profile opdatering mikkel
+
+commit 0f2d915320477a622c6c7702d8590274d74f3958
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Oct 15 08:34:37 2019 +0200
+
+    billede mikkel
+
+commit eb3ec978cc17798f655d6c452ede37f399eecbde
+Merge: f8e8a6e e3b0af7
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Tue Oct 15 08:28:23 2019 +0200
+
+    Mikkel
+
+commit e3b0af76d6007b26e24cbc04d350591c12e65099
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Mon Oct 14 19:08:49 2019 +0200
+
+    .
+
+commit ee3b83dd716fe45ac70b46518f89e36c08d85b02
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Mon Oct 14 13:43:43 2019 +0200
+
+    Ændring af Markus2
+
+commit f8e8a6e8ae34aa1884a5a303cf1d4ba291a3cd85
+Merge: c70a3ea 3d62e6c
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Mon Oct 14 13:43:16 2019 +0200
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit c70a3ea453bfc0c93bf63ecb2311b3664e2f68af
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Mon Oct 14 13:41:17 2019 +0200
+
+    Mikkel
+
+commit 3d62e6c184827a0e79bdad739f7586016809d6f8
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Mon Oct 14 13:35:27 2019 +0200
+
+    Ændring af Markus2
+
+commit 2db321c86c93195dc893feb4e6eb295187207c38
+Merge: 43c9482 da87136
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Mon Oct 14 13:33:54 2019 +0200
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit 43c948216821f20805dc0c9921e43a3e934638d1
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Mon Oct 14 13:33:44 2019 +0200
+
+    Ændring af Markus2
+
+commit da871362ff7c75228de03b9973becaeb7294705a
+Merge: 5b1233d 16c3d86
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Mon Oct 14 13:13:02 2019 +0200
+
+    updating orderpage
+
+commit 5b1233dffbaa2115602565691fa0f93a075d8f5b
+Merge: 8c6afd8 1b10bca
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Mon Oct 14 13:06:01 2019 +0200
+
+    updating orderpage, css and js
+
+commit 16c3d8656f2b2181cbfc826ec70f8c0931994201
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Mon Oct 14 12:49:34 2019 +0200
+
+    l
+
+commit 2db15bb6656c9a6099322465ee185cee218e798f
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Mon Oct 14 12:48:40 2019 +0200
+
+    Ændring af Markus2
+
+commit 737a3933ba5be7526bfaa2f0bd4422ebdf1e3455
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Mon Oct 14 12:47:24 2019 +0200
+
+    Ændring af Markus2
+
+commit 3e91c864f849fd5c3fd576e72397be649a0410ff
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Mon Oct 14 12:42:36 2019 +0200
+
+    Ændring af Markus2
+
+commit efa21ea423a70677509a95cec394eef66402a850
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Mon Oct 14 12:37:09 2019 +0200
+
+    Ændring af Markus2
+
+commit 7b154acb85385d8835cb4d230d152ed8b2eee750
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Mon Oct 14 12:28:40 2019 +0200
+
+    Ændring af Markus
+
+commit 8c6afd892b23d5177ab78d34fe1fc70b2b06023c
+Merge: 86bf2a2 b9c6f47
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Mon Oct 14 12:19:51 2019 +0200
+
+    updating orderpage
+
+commit 1b10bcab4e574aedf40bdf444ac7ef5b4a750a71
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Mon Oct 14 12:12:11 2019 +0200
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+    
+    # Conflicts:
+    #       html/Loginpage.html
+
+commit 14a901da17e6e6642b3ff87f952bae858ca9fc43
+Merge: 0aede86 cdfc513
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Mon Oct 14 12:08:55 2019 +0200
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit 0aede863b97923650abe52efdc868734355d1861
+Merge: ee99b20 58b6ef9
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Mon Oct 14 12:08:32 2019 +0200
+
+    l
+
+commit cdfc51339f4dc67dbb5bc291091032870caf6bb8
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Mon Oct 14 12:05:58 2019 +0200
+
+    Ændring af Markus
+
+commit 58b6ef9645ddabe6f33ceaf2c3375591b45067bb
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Mon Oct 14 12:03:36 2019 +0200
+
+    Ændring af Markus
+
+commit 86bf2a2e9189970df8632bb6c1de3db9c0b9b733
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Mon Oct 14 12:02:10 2019 +0200
+
+    updating html and css
+
+commit ee99b208c135fc3251f4edc3585d256002c0ac2f
+Merge: 020dc35 b9c6f47
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Mon Oct 14 11:59:56 2019 +0200
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit 020dc35af411215cae22b8871187bb304e778c17
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Mon Oct 14 11:59:49 2019 +0200
+
+    .
+
+commit b9c6f47c9d376e460996c7071a423e7df2aa1f01
+Merge: 00acfe0 2497493
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Mon Oct 14 11:58:52 2019 +0200
+
+    Merge branch 'master' of https://github.com/Mikkel0608/CPH-Jetskis
+
+commit 00acfe09616738149d550aa97178daede3ba774a
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Mon Oct 14 11:58:44 2019 +0200
+
+    Ændring af Markus
+
+commit 24974935fc77ccaef503e2dd7fd34ae44691b0ee
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Mon Oct 14 11:51:06 2019 +0200
+
+    tilføjet login funktion til customer
+
+commit c27621f4602fd1d992646b957e0eff22c2ac3c8e
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Mon Oct 14 10:57:50 2019 +0200
+
+    .
+
+commit 74fcb5850f69591c8fe1a0c1caf7697e50283b24
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Mon Oct 14 10:54:47 2019 +0200
+
+    Ændring af Markus
+
+commit 7e11f6040ea28a35c4705fad8b7964b772673e5c
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Mon Oct 14 10:47:58 2019 +0200
+
+    endring av henriette
+
+commit 0b6dea3ca71f737bb40bd932cb880ba974fef7f8
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Mon Oct 14 10:46:22 2019 +0200
+
+    endring av henriette
+
+commit a2d915a90a0ef0d40f064397168278995a2b17e6
+Merge: ffe3343 f87890d
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Mon Oct 14 10:44:01 2019 +0200
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       html/index.html
+
+commit ffe3343794dbe78114d041b999b1d7c0b0ae2b48
+Author: kronborgkvalvik <kronborgkvalvik@gmail.com>
+Date:   Mon Oct 14 10:40:35 2019 +0200
+
+    endring av henriette
+
+commit f87890d560730b6800cdc1f709ed3ed7abc23a7b
+Merge: bf7213e 3773c2c
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Mon Oct 14 10:37:33 2019 +0200
+
+    updating htmls
+
+commit bf7213e01853da38bdf6001c1660963cec66720d
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Mon Oct 14 10:36:27 2019 +0200
+
+    updating htmls
+
+commit 3773c2c03b7741a7512bec5c7486209189328157
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Mon Oct 14 10:18:29 2019 +0200
+
+    kundeoprettelsesside med localstorage funkt.
+
+commit b56233143a729502bc189269aeb552dfb29b58b7
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Sat Oct 12 11:59:13 2019 +0200
+
+    .
+
+commit 14cd77bba275912c0af78360c57b42a44db31129
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Wed Oct 9 17:48:08 2019 +0200
+
+    updated HTML/CSS files
+
+commit 04dd02abb61db7d53b14c325852d38332e691f97
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Wed Oct 9 17:26:41 2019 +0200
+
+    tilføjet en html for login for user samt lavet lidt kode i kunde.js
+
+commit 437675edac38b1322562d270a0bc9c39fa53f794
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Wed Oct 9 17:08:16 2019 +0200
+
+    opdateret htmls
+
+commit ddf2a6dd68b3e708271b04b24cc4239e44a44709
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Wed Oct 9 16:47:31 2019 +0200
+
+    lavet mappe til html
+
+commit d3bcb659cc3180cd15ad81d922b871c6dab3ef6b
+Merge: 451247a e28c234
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Wed Oct 9 16:44:47 2019 +0200
+
+    updater html
+
+commit 451247a7ec39d832b6d49cb493506cfcebfe309a
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Wed Oct 9 16:41:19 2019 +0200
+
+    frontpage, profile & orderpage
+
+commit e28c234febb87403ed977f330202c3cedc29cbd6
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Wed Oct 9 16:20:23 2019 +0200
+
+    ændret mere til engelsk
+
+commit 0fbe148b5ba2d75ac8bb5ddff5d114db32a59fdb
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Wed Oct 9 16:16:48 2019 +0200
+
+    ændret til engelsk
+
+commit 2e13a45caf85cea8db270861a3a58b70b4427a41
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Wed Oct 9 16:01:36 2019 +0200
+
+    tilføjer alle klasser i én mappe
+
+commit cce32be55a797bff78fa2e0351687a4d0260cb8d
+Author: MortenDyberg <dyberg@live.dk>
+Date:   Wed Oct 9 15:55:24 2019 +0200
+
+    opretter kunde klasse
+
+commit 6ea356dccebb76f3d3f0ae19aca24967cb7ea573
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Wed Oct 9 15:48:37 2019 +0200
+
+    bestilTid & profil
+
+commit 4c3bd1fa6c7d2b0da0765d2c7975fd6ac3fa4bdc
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Wed Oct 9 15:38:29 2019 +0200
+
+    frontpage & images
+
+commit 866af846707ed130c013fded66f3ad025cdfbc73
+Author: Mikkel0608 <mikkel_marcher@hotmail.com>
+Date:   Wed Oct 9 14:31:49 2019 +0200
+
+    css stylesheet & font
+
+commit 2c833debe38608620ceb2a5c0874284536116f41
+Merge: 19cc438 8ca15a2
+Author: Mikkel Marcher <mikkelmarcher@Mikkels-MacBook-Pro.local>
+Date:   Wed Oct 9 14:28:31 2019 +0200
+
+    css stylesheet
+
+commit 19cc438e4a1526a008861b1b78b05fcb41456fb2
+Author: Mikkel Marcher <mikkelmarcher@Mikkels-MacBook-Pro.local>
+Date:   Wed Oct 9 14:27:07 2019 +0200
+
+    css fil
+
+commit 8ca15a2b7bd59e7646fa47e5d019f9d98fc7a336
+Author: MortenDyberg <55001135+MortenDyberg@users.noreply.github.com>
+Date:   Wed Oct 9 14:15:05 2019 +0200
+
+    Update README.md
+
+commit 750ea4c782eed3036c04ee4ea4242e48c3df804a
+Author: MortenDyberg <55001135+MortenDyberg@users.noreply.github.com>
+Date:   Wed Oct 9 14:14:46 2019 +0200
+
+    Update README.md
+
+commit e20ef30c1d52c596978bbfa6338ad341292e5bc4
+Author: MortenDyberg <55001135+MortenDyberg@users.noreply.github.com>
+Date:   Wed Oct 9 14:14:23 2019 +0200
+
+    Update README.md
+
+commit 494fb8ea57f5388d1866733c9c50ca640beda214
+Author: MortenDyberg <55001135+MortenDyberg@users.noreply.github.com>
+Date:   Wed Oct 9 14:14:06 2019 +0200
+
+    Update README.md
+
+commit d8e0b24351312609637b1bb69e6692d5fcdb34ad
+Author: MortenDyberg <55001135+MortenDyberg@users.noreply.github.com>
+Date:   Wed Oct 9 14:13:33 2019 +0200
+
+    Update README.md
+
+commit b89ff9558efc6399c03472d4b04500c6c732ad82
+Author: MortenDyberg <55001135+MortenDyberg@users.noreply.github.com>
+Date:   Wed Oct 9 14:11:47 2019 +0200
+
+    Update README.md
+
+commit 0de3c1b027db3027bfa31f5cb931b5fa18e63145
+Author: Mikkel Marcher <mikkelmarcher@Mikkels-MacBook-Pro.local>
+Date:   Wed Oct 9 13:51:54 2019 +0200
+
+    ordre js
+
+commit 02875fcdaef7214639196bace5ae6b380f8ad773
+Author: Mikkel Marcher <mikkelmarcher@Mikkels-MacBook-Pro.local>
+Date:   Wed Oct 9 13:49:45 2019 +0200
+
+    ordre js
+
+commit 06f317297469c41124ec7946f99a96175ded5f55
+Author: Mikkel Marcher <mikkelmarcher@Mikkels-MacBook-Pro.local>
+Date:   Wed Oct 9 13:43:36 2019 +0200
+
+    tilfojer ordre javascript fil
+
+commit ed838e51469f24ac3e438096dd28c60662770d4c
+Author: Kronborgkvalvik <55131793+Kronborgkvalvik@users.noreply.github.com>
+Date:   Wed Oct 9 13:06:32 2019 +0200
+
+    Delete loginuser.js
+
+commit 4d31fc1d12873b5a0b3a6e88d4cf539b95441863
+Author: Kronborgkvalvik <55131793+Kronborgkvalvik@users.noreply.github.com>
+Date:   Wed Oct 9 13:04:39 2019 +0200
+
+    Create loginuser.js
+
+commit 20ec81ba52df078dca306b70a368e4afaaf02163
+Author: mikkelmarcher <55106338+Mikkel0608@users.noreply.github.com>
+Date:   Wed Oct 9 12:59:40 2019 +0200
+
+    Create index.html
+
+commit 7e1f064db0773f486382537e309d6080bb7b348b
+Author: mikkelmarcher <55106338+Mikkel0608@users.noreply.github.com>
+Date:   Wed Oct 9 12:55:45 2019 +0200
+
+    Delete CPHJetskis.drawio-3.png
+
+commit c4e3d9fbb2c81b9730e83844bc01c95adbe6671a
+Author: mikkelmarcher <55106338+Mikkel0608@users.noreply.github.com>
+Date:   Wed Oct 9 12:55:31 2019 +0200
+
+    Delete CPHJetskis_class_diagram.png
+
+commit 7fcf2a86dd2b24ea07ee2f3408445eaf924dc7fc
+Author: mikkelmarcher <55106338+Mikkel0608@users.noreply.github.com>
+Date:   Wed Oct 2 19:57:03 2019 +0200
+
+    Added CPHJetskis.drawio-4.png
+
+commit 94f84d633e64e35a602b1361bf794d2133900e3d
+Author: mikkelmarcher <55106338+Mikkel0608@users.noreply.github.com>
+Date:   Wed Oct 2 19:50:00 2019 +0200
+
+    Added CPHJetskis.drawio-4.png
+
+commit 72a83785c899231c9914c655d0caaf082bdbcee2
+Author: mikkelmarcher <55106338+Mikkel0608@users.noreply.github.com>
+Date:   Wed Oct 2 19:48:30 2019 +0200
+
+    Added CPHJetskis.drawio-3.png
+
+commit c9ba3b0026422ac8d8d487b7ddca52faa9eba126
+Author: mikkelmarcher <55106338+Mikkel0608@users.noreply.github.com>
+Date:   Wed Sep 25 14:29:04 2019 +0200
+
+    Add files via upload
+
+commit b419a2b1ed52953efc73114e73d80819acb63d80
+Author: mikkelmarcher <55106338+Mikkel0608@users.noreply.github.com>
+Date:   Wed Sep 25 14:26:38 2019 +0200
+
+    Delete CPHJetskis.drawio
+
+commit 7dc9504e31e0ea82b7872c849eaddf5feaaaa172
+Author: mikkelmarcher <55106338+Mikkel0608@users.noreply.github.com>
+Date:   Wed Sep 25 14:26:14 2019 +0200
+
+    Added CPHJetskis.drawio.xml
+
+commit 67c5a4c8783f2602314fd8897ba06822c945a0fb
+Author: mikkelmarcher <55106338+Mikkel0608@users.noreply.github.com>
+Date:   Wed Sep 25 14:25:47 2019 +0200
+
+    Add files via upload
+
+commit e3aac9bc7061eb7116ad570e69b344a3e3d8a021
+Author: mikkelmarcher <55106338+Mikkel0608@users.noreply.github.com>
+Date:   Fri Sep 20 16:10:35 2019 +0200
+
+    Added CPHJetskis.drawio
+
+commit 526e1c040a8be37f156ce6d60f8ae56af74eefe6
+Author: mikkelmarcher <55106338+Mikkel0608@users.noreply.github.com>
+Date:   Fri Sep 20 11:40:08 2019 +0200
+
+    Update README.md
+
+commit fa659c53c84b5860aac26ac75f409dfad2f85fe7
+Author: mikkelmarcher <55106338+Mikkel0608@users.noreply.github.com>
+Date:   Fri Sep 20 11:36:52 2019 +0200
+
+    Initial commit

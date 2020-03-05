@@ -16,7 +16,7 @@
 
 #naviBar {
     position: fixed;
-    background-color: rgb(0, 168, 255);
+    background-color: rgb(186, 215, 224);
     text-align: center;
     width:100%;
     top:0;
@@ -31,7 +31,7 @@
     font-family: modernSansLight;
     font-size: 17px;
     color: ghostwhite;
-    background-color: rgb(0, 168, 255);
+    background-color: rgb(186, 215, 224);
     width: 7%;
     height: 100%;
     border-top-width: 0px;
@@ -42,14 +42,14 @@
 }
 #buttonStyle:hover {
     background-color: ghostwhite;
-    color: rgb(0, 168, 255);
+    color: rgb(186, 215, 224);
 }
 
 #loginPhone {
     font-family: modernSansLight;
     font-size: 17px;
     color: ghostwhite;
-    background-color: rgb(0, 168, 255);
+    background-color: rgb(186, 215, 224);
     width: 15%;
     height: 50px;
     border-top-width: 0px;
@@ -63,7 +63,7 @@
     font-family: modernSansLight;
     font-size: 17px;
     color: ghostwhite;
-    background-color: rgb(0, 168, 255);
+    background-color: rgb(186, 215, 224);
     border-color: ghostwhite;
     height: 40px;
     cursor: pointer;
@@ -84,7 +84,7 @@
     bottom: 300px;
     right: 0;
     position: fixed;
-    background-color: rgb(0, 168, 255);
+    background-color: rgb(186, 215, 224);
     color: ghostwhite;
     font-family: modernSansLight;
     font-size: 20px;
@@ -110,7 +110,7 @@
     bottom: 0px;
     right: 24.6%;
     position: fixed;
-    background-color: rgb(0, 168, 255);
+    background-color: rgb(186, 215, 224);
     color: ghostwhite;
     font-family: modernSansLight;
     font-size: 20px;
@@ -124,7 +124,7 @@
     bottom: 0px;
     right: 0;
     position: fixed;
-    background-color: rgb(0, 168, 255);
+    background-color: rgb(186, 215, 224);
     color: ghostwhite;
     font-family: modernSansLight;
     font-size: 20px;
@@ -133,7 +133,7 @@
 #confirmPurchaseButton {
     font-family: modernSansLight;
     font-size: 20px;
-    color: rgb(0, 168, 255);
+    color: rgb(186, 215, 224);
     background-color: ghostwhite;
     border-color: ghostwhite;
     height: 30px;
@@ -144,6 +144,7 @@
 }
 #frontContainer {
     position: relative;
+    background-color: rgb(186, 215, 224);
     overflow: hidden;
     width: 100%;
 }
@@ -167,7 +168,7 @@
     font-family: modernSansLight;
     font-size: 30px;
     color: ghostwhite;
-    background-color: #00A8FF;
+    background-color: rgb(186, 215, 224);
     border-color: ghostwhite;
     height: 40px;
     cursor: pointer;

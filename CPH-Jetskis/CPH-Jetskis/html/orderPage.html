@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>CPH Jetskis</title>
+    <title>CPH Event Gear</title>
     <link rel="stylesheet" type="text/css" href="../CSS/styles.css">
 </head>
 
@@ -11,10 +11,10 @@
 <!-- Navigation bar and navigation buttons -->
 <div id="naviBar">
     <div>
-        <h1 id="headTitle">CPH JETSKIS </h1>
+        <h1 id="headTitle">CPH Event Gear </h1>
     </div>
     <a href="index.html"><button style="border-right-width=1px" id="buttonStyle"> Forside </button></a>
-    <button onclick="checkLoginOrderPage()" style="border-right-width: 0; border-left-width: 0" id="buttonStyle"> Bestil tid </button></a>
+    <button onclick="checkLoginOrderPage()" style="border-right-width: 0; border-left-width: 0" id="buttonStyle"> Bestil festpakke</button></a>
     <button onclick="checkLoginProfilePage()"  id="buttonStyle"> Profil </button> </a>
     <!-- If user is active in localStorage, show the users phone: -->
     <button id="loginPhone"> </button>
@@ -23,12 +23,12 @@
 <!-- Headline on the page-->
 <div id="tekstFelt">
     <br><br><br>
-    <h2 style="font-family: modernSansLight; font-size:30px;"> Lej en vandscooter </h2>
+    <h2 style="font-family: modernSansLight; font-size:30px;"> Lej en festpakke </h2>
     <br>
 </div>
     <!-- Selection of date and time -->
 <div>
-    <h3> Vælg venligst et udlejningstidspunkt for at se ledige vandscootere:</h3>
+    <h3> Vælg venligst et udlejningstidspunkt for at se ledige festpakker:</h3>
     <br>
     <p> Udlejningsdato </p>
     <select type="text" id="rentDay">
@@ -104,17 +104,17 @@
 </div>
 <br><br>
 <hr>
-<!-- Jetski model 1 -->
+<!-- Festpakke 1 -->
 <div style="display:none; float: left; width: 100%;" id="modelContainer1">
     <div style="width:100%; height: 50px; background-color: #00A8FF; position: relative; top: 10px;">
-        <h2 id="jetskiHeadline"> Sea Doo Spark </h2>
+        <h2 id="jetskiHeadline"> 50 års fødselsdag </h2>
     </div>
         <div style="float: left; width: 45%; padding: 20px" id="jetski1Photo">
         <img style="width:100%" src="../images/sea-doo-spark.jpg">
         </div>
     <div style="float: left; width: 45%; padding: 20px" id="jetski1Text">
-        <p>Sea Doo Spark er en fornuftig maskine til <br> en stærk pris. <br><br>
-            Pris: 300 kr. for 2 timer. <br><br>
+        <p>Den komplette pakke til din 50 års fødselsdag <br>
+            Pris: 3000 kr. for 1 døgn. <br><br>
             Antal: </p>
         <select onchange="calculatePrice()" type="text" id="orderAmount1">
             <option value="0" selected disabled> -Antal- </option>
@@ -130,13 +130,13 @@
 <!-- Jetski model 2-->
 <div style="display:none; float: left; width: 100%;" id="modelContainer2">
     <div style="width:100%; height: 50px; background-color: #00A8FF; position: relative; top: 10px;">
-        <h2 id="jetskiHeadline"> Yamaha Waverunner VX </h2>
+        <h2 id="jetskiHeadline"> Bryllup </h2>
     </div>
     <div style="float: left; width: 45%; padding: 20px;" id="jetski2Photo">
         <img style="width: 100%" src="../images/yamaha-waverunner-vx.jpg">
     </div>
     <div style="float: left; width: 45%; padding: 20px;" id="jetski2Text">
-        <p>Pris: 500 kr. for 2 timer. <br><br>
+        <p>Pris: 2000 kr. for 1 døgn. <br><br>
         Antal: </p>
         <select onchange="calculatePrice()" type="text" id="orderAmount2">
             <option value="0" selected disabled> -Antal- </option>
@@ -152,13 +152,13 @@
 <!-- Jetski model 3-->
 <div style="display:none; float: left; width: 100%;" id="modelContainer3">
     <div style="width:100%; height: 50px; background-color: #00A8FF; position: relative; top: 10px;">
-        <h2 id="jetskiHeadline"> Kawasaki STF-15F </h2>
+        <h2 id="jetskiHeadline"> Studentergilde </h2>
     </div>
     <div style="float: left; width: 45%; padding: 20px;" id="jetski3Photo">
         <img style="width: 100%" src="../images/kawasaki-stx-15f.jpg">
     </div>
     <div style="float: left; width: 45%; padding: 20px;" id="jetski3Text">
-        <p>Pris: 600 kr. for 2 timer. <br><br>
+        <p>Pris: 4000 kr. for 1 døgn. <br><br>
         Antal: </p>
         <select onchange="calculatePrice()" type="text" id="orderAmount3">
             <option value="0" selected disabled> -Antal- </option>

@@ -22,8 +22,8 @@ body{
     position: relative;
     font-size: x-large;
     z-index: 1;
-    background: #2f3640;
-    -webkit-text-fill-color: aliceblue;
+    background: black;
+    -webkit-text-fill-color: black;
     max-width: 360px;
     margin: 0 auto 100px;
     padding: 45px;
@@ -34,8 +34,8 @@ body{
     font-family: modernSansLight;
     outline: 1px;
     position: center;
-    background-color: #f2f2f2;
-    -webkit-text-fill-color: darkgray;
+    background-color: rgb(186, 215, 224);
+    -webkit-text-fill-color: black;
     width: 100%;
     margin: 0 0 15px;
     padding: 15px;
@@ -50,39 +50,41 @@ body{
     border: 0;
     box-sizing: 14px;
     padding: 15px;
-    color: aliceblue;
+    color: black;
     font-size: 14px;
 }
 .form button:hover, .form button:active {
     font-family: sans-serif;
     text-transform: uppercase;
     outline: 0;
-    background: aliceblue;
+    background: black;
     -webkit-text-fill-color: rgb(186, 215, 224);
     width: 100%;
     border: 0;
     padding: 15px;
-    color: aliceblue;
+    color: black;
     font-size: 14px;
 }
 
 #loginTitle {
     text-align: center;
-    color: ghostwhite;
+    color: rgb(186, 215, 224);
     font-family: modernSansLight;
-
+    font-size: x-large;
+    margin-top: 80px;
+    position: relative;
 }
 
 
 .form #logintext{
-    color: ghostwhite;
+    -webkit-text-fill-color: rgb(186, 215, 224);;
     font-size: x-large;
     margin-top:5px;
     font-family: sans-serif;
 }
 
 #link {
-    color: ghostwhite;
+    color: rgb(186, 215, 224);
     font-size: medium;
     font-family: sans-serif;
 }
@@ -97,7 +99,7 @@ body{
     font-family: sans-serif;
 }
 #link:visited {
-    color: ghostwhite;
+    color: rgb(186, 215, 224);
     font-size: medium;
     font-family: sans-serif;
 }

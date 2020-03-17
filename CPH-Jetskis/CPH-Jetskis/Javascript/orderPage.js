@@ -49,13 +49,11 @@ function confirmTime() {
     var rentYearID = document.getElementById("rentYear");
     var rentYearValue = rentYearID.options[rentYearID.selectedIndex].value;
 
-    var rentTimeID = document.getElementById("rentTime");
-    var rentTimeValue = rentTimeID.options[rentTimeID.selectedIndex].value;
 
     //MM: Tests if the variables set before are equal to 00 (haven't been set).
     //MM: If the variables have been set, it changes the display property from "none" to "", showing all the jetski models
     //and all the jetski amounts.
-    if (rentDayValue != "00" && rentMonthValue != "00" && rentYearValue != "00" && rentTimeValue != "00") {
+    if (rentDayValue != "00" && rentMonthValue != "00" && rentYearValue != "00") {
         document.getElementById("modelContainer1").style.display = '';
         document.getElementById("modelContainer2").style.display = '';
         document.getElementById("modelContainer3").style.display = '';
@@ -84,7 +82,7 @@ function confirmTime() {
     The loop uses the orderAmount and the orderArray variables.
      */
     for (var i = 0; i < orderAmount; i++) {
-        if (rentDayValue == orderArray[i].orderDay && rentMonthValue == orderArray[i].orderMonth && rentYearValue == orderArray[i].orderYear && rentTimeValue == orderArray[i].timePeriod) {
+        if (rentDayValue == orderArray[i].orderDay && rentMonthValue == orderArray[i].orderMonth && rentYearValue == orderArray[i].orderYear) {
             //MM:Counts the amount of jetski1 reserved and adds to the var
             if (orderArray[i].amount1 == 1) {
                 occupiedAmount1++;
@@ -182,17 +180,17 @@ function calculatePrice() {
     /* MM: Checks if the order amount if above 0, and if so, it adds the jetski name, photo, price and amount to the <p> in the basket.
     If the order amount is 0, it empties the <p> so that the element is hidden in the basket */
     if (orderAmount1JS > 0) {
-        document.getElementById('basketJetski1').innerHTML = "<img style=\"width:30%; float:left; \" src=\"../images/sea-doo-spark.jpg\"> Sea Doo Spark <br> Antal: " + orderAmount1JS + "<br> Pris: " + orderAmount1JS * jetski1.price + " kr.";
+        document.getElementById('basketJetski1').innerHTML = "<img style=\"width:30%; float:left; \" src=\"../images/50år.png\"> Sea Doo Spark <br> Antal: " + orderAmount1JS + "<br> Pris: " + orderAmount1JS * jetski1.price + " kr.";
     } else {
         document.getElementById('basketJetski1').innerHTML = "";
     }
     if (orderAmount2JS > 0) {
-        document.getElementById('basketJetski2').innerHTML = "<br><img style=\"width:30%; float:left; \" src=\"../images/yamaha-waverunner-vx.jpg\"> Yamaha Waverunner VX <br> Antal: " + orderAmount2JS + "<br> Pris: " + orderAmount2JS * jetski2.price + " kr.";
+        document.getElementById('basketJetski2').innerHTML = "<br><img style=\"width:30%; float:left; \" src=\"../images/Bryllup.png\"> Yamaha Waverunner VX <br> Antal: " + orderAmount2JS + "<br> Pris: " + orderAmount2JS * jetski2.price + " kr.";
     } else {
         document.getElementById('basketJetski2').innerHTML = "";
     }
     if (orderAmount3JS > 0) {
-        document.getElementById('basketJetski3').innerHTML = "<br><img style=\"width:30%; float:left; \" src=\"../images/kawasaki-stx-15f.jpg\"> Kawasaki STX-15F <br> Antal: " + orderAmount3JS + "<br> Pris: " + orderAmount3JS * jetski3.price + " kr.";
+        document.getElementById('basketJetski3').innerHTML = "<br><img style=\"width:30%; float:left; \" src=\"../images/Studentergilde.png\"> Kawasaki STX-15F <br> Antal: " + orderAmount3JS + "<br> Pris: " + orderAmount3JS * jetski3.price + " kr.";
     } else {
         document.getElementById('basketJetski3').innerHTML = "";
     }

@@ -1,4 +1,4 @@
-/* MM: The following function uses an if statement with the condition that the phone key in local storage has to equal null.
+ /* MM: The following function uses an if statement with the condition that the phone key in local storage has to equal null.
 If the condition is true, it sends the user to the login page, as the user is not logged in. If not, it allows the user to access the order page.
 The function is activated by the onclick attribute specified on the "Bestil tid" button HTML tag.
  */
